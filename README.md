@@ -2,7 +2,6 @@
 
 A VS Code extension that displays an epic Dark Souls "YOU DIED" style message every time you push code to a remote branch.
 
-![YOU PUSHED](https://i.imgur.com/placeholder.png)
 
 ## Features
 
